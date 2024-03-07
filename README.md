@@ -1,2 +1,2 @@
 # Algorithm24
-##contents 박로사
+## Contents 박로사

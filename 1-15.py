@@ -2,7 +2,7 @@ def find_substring(text, substring):
     # 주어진 텍스트에서 부분 문자열의 인덱스를 반환
     # 텍스트에서 부분 문자열을 찾지 못한 경우 -1을 반환
     
-    # 텍스트와 부분 문자열의 길이를 가져
+    # 텍스트와 부분 문자열의 길이
     text_length = len(text)
     substring_length = len(substring)
     

@@ -1,0 +1,4 @@
+def compute_square_A(n):
+    return n * n
+
+print(compute_square_A(5))  # 예시
